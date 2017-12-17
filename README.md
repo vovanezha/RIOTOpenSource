@@ -22,7 +22,7 @@ As you can see, the last image was rotated little wrong, cause it has black line
 
 This algorithm is flavored with GUI in file MainApp.py. Simple and beautiful app which has 4 buttons: "Open", "Rotate", "Save" and "Exit".
 
-<img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/gui.png" align = "center"width="700" height="200" />
+<img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/gui.png" align="center" width="700" height="200" />
 
 But app has problem. The image will save in the directory, where is app, and you can't choose the directory. Sorry for that.
 
