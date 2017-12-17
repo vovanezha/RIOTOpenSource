@@ -10,5 +10,5 @@ In the file RotateImg.py you can find the main algorithm. The basic principle of
 
 This algorithm is flavored with GUI in file MainApp.py. Simple and beautiful app which has 4 buttons: "Open", "Rotate", "Save" and "Exit".
 
-![alt text](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
+![image](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
 
