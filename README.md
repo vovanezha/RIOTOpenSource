@@ -12,7 +12,7 @@ In the file RotateImg.py you can find the main algorithm. The basic principle of
 
 <img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/test3.png" width="400" height="600" /><img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/rot_test1.png" width="400" height="600" />
 
-<img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/test4.png" width="500" height="400" /><img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/rot_test3.png" width="500" height="400" />
+<img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/test4.png" width="400" height="400" /><img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/rot_test3.png" width="400" height="400" />
 This algorithm is flavored with GUI in file MainApp.py. Simple and beautiful app which has 4 buttons: "Open", "Rotate", "Save" and "Exit".
 
 
