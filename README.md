@@ -8,7 +8,14 @@ In the file RotateImg.py you can find the main algorithm. The basic principle of
 3) After that, was applied <em>Hough Transform</em> for finding lines and then detecting angle.
 4) The final part, just rotate the image to the detected angle.
 
+![image](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
+![image](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
+![image](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
+![image](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
 This algorithm is flavored with GUI in file MainApp.py. Simple and beautiful app which has 4 buttons: "Open", "Rotate", "Save" and "Exit".
 
 ![image](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
+But app has problem. The image will save in the directory, where is app, and you can't choose the directory. Sorry for that.
+
+In the file PrimitiveRotateImg.py you find primitive algorithm :D. It's based on just threshold image, detect contours, draw rectangle, calculating angle and then rotate.
 
