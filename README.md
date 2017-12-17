@@ -8,7 +8,7 @@ In the file RotateImg.py you can find the main algorithm. The basic principle of
 3) After that, was applied <em>Hough Transform</em> for finding lines and then detecting angle.
 4) The final part, just rotate the image to the detected angle.
 
-<img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/test2.png" width="200" height="200" />
+<img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/test2.png" width="400" height="200" />
 ![image](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
 ![image](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
 ![image](https://github.com/vovanezha/RIOTOpenSource/blob/master/gui.png)
