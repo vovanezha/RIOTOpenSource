@@ -18,7 +18,7 @@ In the file RotateImg.py you can find the main algorithm. The basic principle of
 
 As you can see, the last image was rotated little wrong, cause it has black line in right corner and bottom. If we remove this lines, image will rotate right.
 
-<img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/test1.png" width="400" height="600" /><img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/test1.png" width="400" height="600" />
+<img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/test5.png" width="400" height="600" /><img src="https://github.com/vovanezha/RIOTOpenSource/blob/master/images/rot_test5.png" width="400" height="600" />
 
 This algorithm is flavored with GUI in file MainApp.py. Simple and beautiful app which has 4 buttons: "Open", "Rotate", "Save" and "Exit".
 
