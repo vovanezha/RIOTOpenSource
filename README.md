@@ -26,5 +26,5 @@ This algorithm is flavored with GUI in file MainApp.py. Simple and beautiful app
 
 But app has problem. The image will save in the directory, where is app, and you can't choose the directory. Sorry for that.
 
-In the file PrimitiveRotateImg.py you find primitive algorithm :D. It's based on just threshold image, detect contours, draw rectangle, calculating angle and then rotate.
+In the file PrimitiveRotateImg.py you find primitive algorithm. It's based on just threshold image, detect contours, draw rectangle, calculating angle and then rotate.
 
